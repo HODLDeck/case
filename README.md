@@ -2,4 +2,4 @@
 
 This is the OpenSCAD code to build the HODLDeck case.
 
-![HODLDeck rendering](hodldec-case.png?raw=true "The HODLDeck device")
+![HODLDeck rendering](hodldeck-case.jpg?raw=true "The HODLDeck device")
